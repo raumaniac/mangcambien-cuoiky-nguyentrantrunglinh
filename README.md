@@ -13,12 +13,11 @@
 
 ## 3. Cấu trúc thư mục
 ```text
-├── browser/                  
-│   ├── edge-impulse-standalone.js # Thư viện hỗ trợ suy luận
-│   ├── edge-impulse-standalone.wasm # Lõi mô hình đã nén
-│   ├── index.html            # Giao diện kiểm thử (UI)
-│   └── run-impulse.js        # Logic xử lý và kết nối Microphone
-└── README.md                 # Tài liệu hướng dẫn
+├── edge-impulse-standalone.js    # Thư viện hỗ trợ suy luận
+├── edge-impulse-standalone.wasm  # Lõi mô hình đã nén
+├── index.html                    # Giao diện kiểm thử (UI)
+├── run-impulse.js                # Logic xử lý và kết nối Microphone
+└── README.md                     # Tài liệu hướng dẫn
 ```
 ## 4. Phụ thuộc (Dependencies)
 Để đảm bảo hệ thống vận hành đúng, môi trường chạy cần đáp ứng các yêu cầu sau:
