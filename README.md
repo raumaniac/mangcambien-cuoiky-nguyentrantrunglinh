@@ -31,12 +31,10 @@
 Dự án hỗ trợ hai phương thức kiểm thử:
 
 - **Phương thức 1:** Trải nghiệm qua Web-based Deployment
-  - Đây là cách nhanh nhất để kiểm tra mô hình trên thiết bị di động hoặc trình duyệt mà không cần cài đặt:
   - Truy cập vào liên kết triển khai từ Edge Impulse: [Nhấn vào đây để mở Camera Voice Control]
   - Cấp quyền truy cập Microphone và bắt đầu trải nghiệm.
 
 - **Phương thức 2:** Chạy Local
-  - Để nghiên cứu cấu trúc mã nguồn và phục vụ việc bảo vệ đồ án, cậu có thể chạy trực tiếp trên máy tính:
   - Clone repository:
     ``git clone https://github.com/raumaniac/mangcambien-cuoiky-nguyentrantrunglinh``
   - Chạy server (cần Python):
