@@ -18,7 +18,6 @@
 │   ├── edge-impulse-standalone.wasm # Lõi mô hình đã nén
 │   ├── index.html            # Giao diện kiểm thử (UI)
 │   └── run-impulse.js        # Logic xử lý và kết nối Microphone
-├── src/                      # Chứa các mã nguồn bổ trợ khác
 └── README.md                 # Tài liệu hướng dẫn
 ```
 ## 4. Phụ thuộc (Dependencies)
